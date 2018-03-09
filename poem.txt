@@ -5,4 +5,5 @@ pink
 orginge
 blue
 red
+yellow
 ths is teh colors for rainbow. 
